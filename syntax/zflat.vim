@@ -13,8 +13,7 @@ hi value guifg=175 ctermfg=175
 hi import guifg=74 ctermfg=74
 hi classWords guifg=208 ctermfg=208
 hi classKeyWords guifg=74 ctermfg=74
-hi modifiers guifg=4 ctermfg=4
-hi flowWords guifg=203 ctermfg=203
+hi modifiers guifg=9 ctermfg=9
 hi flowWords guifg=203 ctermfg=203
 hi controlFlowConstructs guifg=203 ctermfg=203
 hi unsafe guifg=5 ctermfg=5
