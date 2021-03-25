@@ -10,13 +10,14 @@ endif
 hi types guifg=214 ctermfg=214
 hi typing guifg=208 ctermfg=208
 hi value guifg=175 ctermfg=175
-hi import guifg=74 ctermfg=74
+hi import guifg=117 ctermfg=117
 hi classWords guifg=208 ctermfg=208
-hi classKeyWords guifg=74 ctermfg=74
+hi classKeyWords guifg=117 ctermfg=117
 hi modifiers guifg=9 ctermfg=9
 hi flowWords guifg=203 ctermfg=203
 hi controlFlowConstructs guifg=203 ctermfg=203
 hi unsafe guifg=5 ctermfg=5
+hi misc guifg=35 ctermfg=35
 
 syn keyword types bool char double float int long short void uchar uint ulong ushort
 syn keyword typing as auto bitfield const final
