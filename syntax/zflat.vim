@@ -17,7 +17,7 @@ hi modifiers guifg=9 ctermfg=9
 hi flowWords guifg=203 ctermfg=203
 hi controlFlowConstructs guifg=203 ctermfg=203
 hi unsafe guifg=5 ctermfg=5
-hi misc guifg=35 ctermfg=35
+hi misc guifg=77 ctermfg=77
 
 syn keyword types bool char double float int long short void uchar uint ulong ushort
 syn keyword typing as auto bitfield const final
@@ -36,7 +36,7 @@ syn keyword unsafe throw try catch
 syn keyword modifiers interface public private protected readonly static virtual
 
 hi comment guifg=grey ctermfg=grey
-hi number guifg=132 ctermfg=132
+hi number guifg=176 ctermfg=176
 hi string guifg=70 ctermfg=74
 
 syn match string /".*"/
