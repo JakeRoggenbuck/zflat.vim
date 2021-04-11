@@ -25,7 +25,7 @@ syn keyword typing as auto bitfield const final
 syn keyword values none true false
 
 syn keyword import use
-syn keyword misc asm extc threadsafe
+syn keyword misc asm extc threadsafe __c_va_args
 syn keyword classWords class enum
 
 syn keyword classKeyWords self
